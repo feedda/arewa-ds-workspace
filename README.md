@@ -1,21 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatima Usman Muhammad
-=============================================================================================================================================
+30DaysOfPython_ArewaDataScience
+"30 Days of Python" is a comprehensive course designed to teach beginners the fundamental concepts of the Python programming language. The course is divided into 30 daily lessons, each one building on the previous day's material.
 
-Statistician and Data Scientist
--------------------------------
+Here is an overview of to learning activities in the "30 Days of Python" course:
 
-Enthusiastic aspiring statistician actively refining skills in data collection and statistical analysis. Committed to contributing to informed decision-making. As a budding data scientist, I strived to be proficient in Python, dedicated to handling complex datasets and extracting valuable insights through statistical methods.
-
-* 🌍  I'm based in Nigeria
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/feedda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+Day 01: Introduction.
+Day 02: Variables, Built-in Functions.
+Day 03: Operators.
+Day 04: Strings.
+Day 05: Lists.
+Day 06: Tuples.
+Day 07: Sets.
+Day 08: Dictionaries.
+Day 09: Conditionals.
+Day 10: Loops.
+Day 11: Functions.
+Day 12: Modules.
+Day 13: List Comprehension.
+Day 14: Higher Order Functions.
+Day 15: Python Type Errors.
+Day 16: Python Date time.
+Day 17: Exception Handling.
+Day 18: Regular Expressions.
+Day 19: File Handling.
+Day 20: Python Package Manager.
+Day 21: Classes and Objects.
+Day 22: Web Scraping.
+Day 23: Virtual Environment.
+Day 24: Statistics.
+Day 25: Pandas.
+Day 26: Python web.
+Day 27: Python with MongoDB.
+Day 28: API.
+Day 29: Building API.
+Day 30: Conclusions.
